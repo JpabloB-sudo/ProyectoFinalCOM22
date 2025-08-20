@@ -20,6 +20,14 @@ h1 {
 h3 {
     font-size: 30px;
 }
+.contenedor {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: auto;
+    width: auto;
+    
+}
  a {
     color: #003366;  
 }
@@ -31,4 +39,5 @@ a:hover {
 }
 a:active {
     color: #003366;  
+
 }
